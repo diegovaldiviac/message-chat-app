@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import ChatUserList from '../components/ChatUserList';
 import ChatMessagesList from '../components/ChatMessagesList';
